@@ -1,0 +1,11 @@
+2022/2026 World Cup Website Idea!!!!
+
+index page:
+* include description of world cup
+* include navigation menu to go to different sections such as: Location/Date, Stadiums(with Pictures), teams, Previous winners(takes to new webpage)
+
+
+
+Previous winner tab:
+* show the previous winner as an ordered list with the pictures as links to wikipedia link of when they won it.(eg. France 2022 wiki page)
+ 
